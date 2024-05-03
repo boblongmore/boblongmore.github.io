@@ -5,8 +5,9 @@
 Find stuff here:
 
 [Linkedin](https://www.linkedin.com/in/boblongmore/)
+
 [Github Page](https://github.com/boblongmore)
+
 [Gitlab Page](https://gitlab.com/boblongmore)
+
 [WWT Page](https://www.wwt.com/profile/bob-longmore/bio)
-
-
