@@ -18,6 +18,6 @@
 
 [Red Hat Summit / Ansiblefest 2024](https://github.com/boblongmore/ansiblefest2024)
 
-[Red Hat Summit / Ansiblefest 2025](https://github.com/boblongmore/ansiblefest2025) Coming Soon!
+[Red Hat Summit / Ansiblefest 2025](https://github.com/boblongmore/ansiblefest2025)
 
 [Open Source North 2025](https://github.com/boblongmore/osn2025) Coming Soon!
