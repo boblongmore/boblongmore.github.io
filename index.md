@@ -23,3 +23,5 @@
 [Open Source North 2025](https://github.com/boblongmore/osn2025)
 
 [Red Hat Summit 2026](https://github.com/boblongmore/summit2026)
+
+[NetBox Evolve 2026](https://https://github.com/boblongmore/NetBoxEvolve-2026)
